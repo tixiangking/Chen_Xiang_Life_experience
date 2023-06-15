@@ -1,0 +1,17 @@
+1.首先下载 clash for windows https://github.com/Fndroid/clash_for_windows_pkg
+2.订阅服务，介绍链接：https://zhuji.gd/6872.html
+3.例如选用里面的duangcloud https://portal.dc-site1.com/#/plan/2 （不推荐，用补充里的方法更好）
+直接下载其app可以一键链接，可以参考资料：
+https://portal.dc-site1.com/#/knowledge
+
+注意：应选择全局代理模式。
+注意：
+原域名已被墙污染，需使用全局代理才可以访问
+
+最新网址为 https://portal.dc-site5.com
+
+防失联请收藏域名：https://duangweb.com
+
+补充：用clash for windows，代理更专业，能自动识别需要翻墙的地方，引入订阅用duangcloud里的链接一键引入即可
+配置方法：proxies里面的可以配置节点选择和手动切换两个全局变量，再给下面不同的网站分配这俩变量即可。
+手动切换使用台湾专线10NF chatgpt，节点选择选自动切换即可

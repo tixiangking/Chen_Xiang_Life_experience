@@ -1,0 +1,2 @@
+给游览器装一个AdBlock Detector Bypass
+https://addons.mozilla.org/zh-CN/firefox/addon/adblock-detector-bypass/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search

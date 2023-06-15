@@ -1,0 +1,5 @@
+1. 换订阅（参考电脑上配置vpn）
+
+2. 更关键：更新clash   clash更新地址：https://github.com/Fndroid/clash_for_windows_pkg/releases
+（最好直接fork关注一下更新进度）
+更新：直接点clash客户端的标题就可以自动更新，更方便快捷
