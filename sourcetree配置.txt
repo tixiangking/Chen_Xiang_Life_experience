@@ -1,0 +1,3 @@
+1.首先下载sourcetree并安装，账户为谷歌账户：https://www.sourcetreeapp.com/   先选择不添加密钥
+2.按照教程生成公钥私钥，并添加公钥到github：https://blog.csdn.net/RtxTitanV/article/details/106315576?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-106315576-blog-125993172.235%5Ev38%5Epc_relevant_default_base&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-106315576-blog-125993172.235%5Ev38%5Epc_relevant_default_base&utm_relevant_index=1
+3.选择sourcetree 启动ssh助手，然后按照教程生成ppk文件：https://blog.csdn.net/qq_22464799/article/details/122949189 并导入到sourcetree
