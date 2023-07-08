@@ -1,0 +1,2 @@
+1.打开Realtek Audio Console（win里直接搜索）
+2.选择耳机-音效-扬声器噪音消除（语音通话）  关闭
